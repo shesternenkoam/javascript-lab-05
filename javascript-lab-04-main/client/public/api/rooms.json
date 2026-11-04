@@ -1,0 +1,4 @@
+[
+  { "id": "room_1", "name": "Альфа Арена", "players": 1 },
+  { "id": "room_2", "name": "Бета Зона", "players": 0 }
+]
